@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Pokemon Revolution        
+Comment=A free-to-play, fan-made, MMO game that is predicated around the official Pokémon games
+Exec=/usr/bin/pokemonrevolution
+Icon=pokemonrevolution
+Terminal=false
+Type=Application
+Categories=Game;

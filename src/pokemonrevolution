@@ -1,0 +1,9 @@
+#! /bin/sh
+
+#OPTIONS="-force-glcore -screen-fullscreen 0 -force-wayland"
+OPTIONS="-force-glcore"
+
+# Launch
+exec /opt/Pokemon\ Revolution/PROClient/PROClient.x86_64 ${OPTIONS} ${@}
+
+exit
